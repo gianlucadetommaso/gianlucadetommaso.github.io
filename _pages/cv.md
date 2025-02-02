@@ -34,9 +34,9 @@ Education
   <span style="color:grey"><sub>Part of [SAMBa CDT](https://samba.ac.uk/) (integrated PhD program). Distinction.</sub></span>
 * MA in Statistics & Applied Mathematics, Collegio Carlo Alberto, 2012-2015
   <span style="color:grey"><sub>Parallel degree ([Allievi Honors Program](https://www.carloalberto.org/education/allievi-honors-program/)).</sub></span>
-* MSc in Mathematics, Unversità di Torino, 2013-2015
+* MSc in Mathematics, Università di Torino, 2013-2015
   <span style="color:grey"><sub>Summa Cum Laude & Honor Mention to Research.</sub></span>
-* BSc in Mathematics, Unversità di Torino, 2010-2013
+* BSc in Mathematics, Università di Torino, 2010-2013
   <span style="color:grey"><sub>Summa Cum Laude.</sub></span>
 
 Publications
