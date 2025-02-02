@@ -21,7 +21,7 @@ repository               : "gianlucadetommaso.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "me_circle.png"
+  avatar           : "profile.png"
   name             : "Gianluca Detommaso"
   pronouns         : "he/him"
   bio              : "AI Assurance Lead at Helsing"
