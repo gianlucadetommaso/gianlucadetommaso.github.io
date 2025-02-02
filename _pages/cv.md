@@ -7,6 +7,10 @@ redirect_from:
   - /resume
 ---
 
+{% include base_path %}
+
+A quick overview over my past experiences.
+
 Work experience
 ======
 * AI Research Engineer, 2024-current  
