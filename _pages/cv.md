@@ -9,56 +9,37 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* AI Research Engineer, 2024-current
+  <span style="color:grey"><sub>I am the tech lead of AI Assurance across Helsing.</sub></span>
+* Senior Applied Scientist, AWS, 2023-2024
+  <span style="color:grey"><sub>
+  - Hallucination detection and confidence calibration.
+  </sub></span>
+* Applied Scientist, Amazon, 2021-2023
+  <span style="color:grey"><sub>
+  - Uncertainty Quantification (checkout [Fortuna](https://github.com/awslabs/fortuna)).
+  </sub></span>
+* Applied Scientist, Amazon, 2020-2021
+  <span style="color:grey"><sub>
+  - Probabilistic programming, price elasticity estimation and causal inference.
+  </sub></span>
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* PhD in Statistical Applied Mathematics, University of Bath, 2015-2019
+  <span style="color:grey"><sub>2 years at University of Bath, 1 year at The Alan Turing Institute, 1 year at Heidelberg University.</sub></span>
+* MRes in Statistical Applied Mathematics, University of Bath, 2015-2016 
+  <span style="color:grey"><sub>Part of [SAMBa CDT](https://samba.ac.uk/) (integrated PhD program). Distinction.</sub></span>
+* MA in Statistics & Applied Mathematics, Collegio Carlo Alberto, 2012-2015
+  <span style="color:grey"><sub>Parallel degree ([Allievi Honors Program](https://www.carloalberto.org/education/allievi-honors-program/)).</sub></span>
+* MSc in Mathematics, Unversità di Torino, 2013-2015
+  <span style="color:grey"><sub>Summa Cum Laude & Honor Mention to Research.</sub></span>
+* BSc in Mathematics, Unversità di Torino, 2010-2013
+  <span style="color:grey"><sub>Summa Cum Laude.</sub></span>
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  You can find my publication on [Google Scholar](https://scholar.google.com/citations?user=68BNz2EAAAAJ&hl=en)!
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

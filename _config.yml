@@ -12,7 +12,7 @@ title                    : "Gianluca Detommaso"
 title_separator          : "-"
 name                     : &name "Gianluca Detommaso"
 description              : &description "AI Assurance Lead at Helsing | ex-AWS | PhD in Maths"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://gianlucadetommaso.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "gianlucadetommaso.github.io"
 
